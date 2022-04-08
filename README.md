@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Arya</h1>
+<h1 align="center">Hello 👋, I'm Prajwal Arya</h1>
 <h3 align="center">Just explore!!</h3>
 
 - 🔭 I'm currently learning **Unreal engine**
