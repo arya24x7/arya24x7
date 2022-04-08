@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Arya</h1>
 <h3 align="center">Just explore!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arya24x7&label=Profile%20views&color=0e75b6&style=flat" alt="arya24x7" /> </p>
-
 - 🔭 I'm currently learning **Unreal engine**
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -10,6 +8,8 @@
 - 👯 Into **Robotics Stuffs**
 
 - 🤝 **Python**
+
+- 📫 How to reach me **Prajwal02arya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
