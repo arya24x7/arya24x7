@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Arya</h1>
 <h3 align="center">Just explore!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya24x7" alt="arya24x7" /></a> </p>
-
 - 🔭 I'm currently learning **Unreal engine**
 
 - 🌱 I’m currently learning **Deep Learning**
